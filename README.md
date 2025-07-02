@@ -15,8 +15,8 @@
 
 ## Some of my projects:
 🖼️[CNN-CIFAR100](https://github.com/kpta119/Convolutional-neural-network-CIFAR100): Implemented a convolutional neural network for classification of images from the CIFAR 100 dataset.  
-📦[Warehouse Management Application](https://github.com/kpta119/WarehouseManagement): About A full-stack application for managing warehouses and monitoring the flow of goods between them.  
+📦[Warehouse Management Application](https://github.com/kpta119/WarehouseManagement): A full-stack application for managing warehouses and monitoring the flow of goods between them.  
 📈[Stock Market Application](https://github.com/kpta119/Stock-Market-Web-Application): An application that allows you to manage your stock portfolio based on real data.  
-🌀[Madnelbrot Set Visualization in x86 Assembler](https://github.com/kpta119/MandelbrotSet_Intelx86): Mandelbrot Set visualization using x86-64 assembly language with allegro image library in C.
-🌳[ID3 Classificator](https://github.com/kpta119/ID3-Classification): mplementation of the ID3 classifier, which can classify objects from different datasets.  
+🌀[Madnelbrot Set Visualization in x86 Assembler](https://github.com/kpta119/MandelbrotSet_Intelx86): Mandelbrot Set visualization using x86-64 assembly language with allegro image library in C.  
+🌳[ID3 Classifier](https://github.com/kpta119/ID3-Classification): Implementation of the ID3 classifier, which can classify objects from different datasets.  
 ♟️[Checkers with AI](https://github.com/kpta119/Checkers-MiniMax-Algorithm): Implementation of a checkers game with a computer that uses the minimax algorithm with alpha-beta pruning.
