@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kpta119?tab=repositories](https://github.com/kpta119?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/kpta119?tab=repositories)
 
 - 📫 How to reach me **kacper.pt119@gmail.com**
 
